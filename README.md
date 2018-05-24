@@ -1,1 +1,1 @@
-# newGitTest
+# newGitTest is some what awesome
